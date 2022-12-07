@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2a36d74-d64a-4899-a06c-94f074142dde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bjTGGp6yVuEsx8iSKGQvFXQkn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\gestione-web-corsi-aggiornamento\5_Sito o applicativo\GestioneCorsiAggiornamento\img" />
+      <recent name="C:\Apache24\htdocs\gestione-web-corsi-aggiornamento\5_Sito o applicativo\GestioneCorsiAggiornamento\application\views\login" />
+      <recent name="C:\Apache24\htdocs\gestione-web-corsi-aggiornamento\5_Sito o applicativo\GestioneCorsiAggiornamento\application\controller" />
+      <recent name="C:\Apache24\htdocs\GestioneCorsiAggiornamento\application\models" />
+      <recent name="C:\Apache24\htdocs\GestioneCorsiAggiornamento\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bootstrap-wysihtml5-0.0.2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/bootstrap-wysihtml5-0.0.2.js" working-dir="$PROJECT_DIR$/assets/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.bootstrap-wysihtml5-0.0.2.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2a36d74-d64a-4899-a06c-94f074142dde" name="Default Changelist" comment="" />
+      <created>1589144405855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589144405855</updated>
+      <workItem from="1589144408011" duration="1927000" />
+      <workItem from="1589359614723" duration="17181000" />
+      <workItem from="1589401376665" duration="4401000" />
+      <workItem from="1589439541091" duration="3807000" />
+      <workItem from="1589453923152" duration="17236000" />
+      <workItem from="1589485663983" duration="6000" />
+      <workItem from="1589485679414" duration="6253000" />
+      <workItem from="1589542640389" duration="11642000" />
+      <workItem from="1589630710372" duration="267000" />
+      <workItem from="1589652006423" duration="635000" />
+      <workItem from="1589655093852" duration="246000" />
+      <workItem from="1589715506787" duration="27742000" />
+      <workItem from="1589782975454" duration="34220000" />
+      <workItem from="1589869309355" duration="14250000" />
+      <workItem from="1589888774967" duration="22393000" />
+      <workItem from="1589955866193" duration="29208000" />
+      <workItem from="1590068327146" duration="11853000" />
+      <workItem from="1590147665188" duration="25479000" />
+      <workItem from="1590227428153" duration="30633000" />
+      <workItem from="1590311676909" duration="29445000" />
+      <workItem from="1590346914427" duration="10336000" />
+      <workItem from="1590387139146" duration="27600000" />
+      <workItem from="1590421185893" duration="12214000" />
+      <workItem from="1590473627903" duration="36475000" />
+      <workItem from="1590561485164" duration="20541000" />
+      <workItem from="1590664942070" duration="14228000" />
+      <workItem from="1590699297571" duration="26000" />
+      <workItem from="1590754411666" duration="2355000" />
+      <workItem from="1590926442296" duration="401000" />
+      <workItem from="1591360136443" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590527968181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590527968181" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589145289454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589145289454" />
+    <state x="260" y="279" key="FileChooserDialogImpl" timestamp="1590676844546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590676844546" />
+    <state x="178" y="339" key="NewPhpClassDialog" timestamp="1590441471688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="178" y="339" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590441471688" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1590441484202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040/197.1080.1536.1112@0.0.1920.1040" timestamp="1589380727523" />
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590441484202" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1589543305003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/197.1080.1536.1112@0.0.1920.1040" timestamp="1589383539951" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589543305003" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1591360137101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591360137101" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590248497586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590248497586" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1590431632418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1590431632418" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2" timestamp="1590416812887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1590416812887" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-3" timestamp="1590417699362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1590417699362" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-4" timestamp="1590419613764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1590419613764" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-5" timestamp="1590419695188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1590419695188" />
+    <state x="840" y="494" width="710" height="546" key="find.popup" timestamp="1590684793323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="494" width="710" height="546" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590684793323" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1590673239910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590673239910" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590505814989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/197.1080.1536.1112@0.0.1920.1040" timestamp="1589383524864" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590505814989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/views/management/adminPanel.php</url>
+          <line>93</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
